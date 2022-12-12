@@ -1,0 +1,15 @@
+C:\Users\АНЖЕЛА\Desktop\C#\seminar9\work9\ex66\bin\Debug\net6.0\ex66.exe
+C:\Users\АНЖЕЛА\Desktop\C#\seminar9\work9\ex66\bin\Debug\net6.0\ex66.deps.json
+C:\Users\АНЖЕЛА\Desktop\C#\seminar9\work9\ex66\bin\Debug\net6.0\ex66.runtimeconfig.json
+C:\Users\АНЖЕЛА\Desktop\C#\seminar9\work9\ex66\bin\Debug\net6.0\ex66.dll
+C:\Users\АНЖЕЛА\Desktop\C#\seminar9\work9\ex66\bin\Debug\net6.0\ex66.pdb
+C:\Users\АНЖЕЛА\Desktop\C#\seminar9\work9\ex66\obj\Debug\net6.0\ex66.csproj.AssemblyReference.cache
+C:\Users\АНЖЕЛА\Desktop\C#\seminar9\work9\ex66\obj\Debug\net6.0\ex66.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\АНЖЕЛА\Desktop\C#\seminar9\work9\ex66\obj\Debug\net6.0\ex66.AssemblyInfoInputs.cache
+C:\Users\АНЖЕЛА\Desktop\C#\seminar9\work9\ex66\obj\Debug\net6.0\ex66.AssemblyInfo.cs
+C:\Users\АНЖЕЛА\Desktop\C#\seminar9\work9\ex66\obj\Debug\net6.0\ex66.csproj.CoreCompileInputs.cache
+C:\Users\АНЖЕЛА\Desktop\C#\seminar9\work9\ex66\obj\Debug\net6.0\ex66.dll
+C:\Users\АНЖЕЛА\Desktop\C#\seminar9\work9\ex66\obj\Debug\net6.0\refint\ex66.dll
+C:\Users\АНЖЕЛА\Desktop\C#\seminar9\work9\ex66\obj\Debug\net6.0\ex66.pdb
+C:\Users\АНЖЕЛА\Desktop\C#\seminar9\work9\ex66\obj\Debug\net6.0\ex66.genruntimeconfig.cache
+C:\Users\АНЖЕЛА\Desktop\C#\seminar9\work9\ex66\obj\Debug\net6.0\ref\ex66.dll
